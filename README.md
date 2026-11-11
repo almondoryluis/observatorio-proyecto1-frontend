@@ -1,5 +1,7 @@
 # Task Manager
 
+Original source at: https://github.com/khouloudRouis/task-manager-fullstack-ngrx
+
 > **Status**: ✅ Ready for review
 
 A modern task management application built with Angular 18, Spring Boot 3.5.9, NgRx, and PostgreSQL. Features Docker containerization with Docker Compose for easy deployment and development.
